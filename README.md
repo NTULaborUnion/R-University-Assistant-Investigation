@@ -16,7 +16,7 @@ The survey was designed and distributed by [Wen-Shuan Chen](https://www.facebook
 
 [Link to the repository for data cleaning](https://github.com/wangdom5566/R-University-Assistant-Investigation)
 
-[data visualization website (preliminary)](https://github.com/wangdom5566/R-University-Assistant-Investigation)
+[Rshiny data visualization website (preliminary)](https://runiversities-assistants-survey.shinyapps.io/shinyapp/)
 
 Further analysis is done by [Shih-Hao Lin](https://www.facebook.com/profile.php?id=100002488083474) from National Tsing Hua University.
 
